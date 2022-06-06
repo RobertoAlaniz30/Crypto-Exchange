@@ -44,8 +44,8 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <br/>  
 
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## Project Stack 
+
 
 
 
@@ -58,15 +58,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
 </div>
 
-<!-- </td><td valign="top" width="33%">
 
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>   -->
 
 <br/>  
 
