@@ -1,27 +1,4 @@
 # crypto-exchange
-
-## Project setup
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
 # **<div align="center">🚀 CRYPTO-EXCHANGE 🚀</div>**  
   
 
@@ -49,7 +26,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-### Frontend  
+
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/vuejs-original-wordmark.svg" alt="Vue.js" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
@@ -79,7 +56,27 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 <br/>  
 
-
-
-
 ----
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
