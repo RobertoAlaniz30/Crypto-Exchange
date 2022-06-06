@@ -58,7 +58,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="75" />  
 </div>
 
-</td><td valign="top" width="33%">
+<!-- </td><td valign="top" width="33%">
 
 
 
@@ -66,7 +66,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 
-</td></tr></table>  
+</td></tr></table>   -->
 
 <br/>  
 
@@ -80,7 +80,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/https://gallant-yalow-9028f8.netlify.app/" target="_blank">
-<img src=https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png alt=netilfy style="margin-bottom: 5px;" />
+<img src=https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png&style=for-the-badge&logo=linkedin&logoColor=white alt=netilfy style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
@@ -91,4 +91,3 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
