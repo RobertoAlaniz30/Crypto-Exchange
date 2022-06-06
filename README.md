@@ -80,7 +80,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>
 <a href="https://dev.to/https://gallant-yalow-9028f8.netlify.app/" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
+<img src=https://seeklogo.com/images/N/netlify-logo-758722CDF4-seeklogo.com.png alt=netilfy style="margin-bottom: 5px;" />
 </a>  
 </div>  
   
